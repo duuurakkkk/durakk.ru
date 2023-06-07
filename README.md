@@ -1,0 +1,1 @@
+# durakk.ru
