@@ -1,0 +1,15 @@
+D:\учеба\ConsoleAppEgor6110\ConsoleAppEgor6110\obj\Debug\net6.0\ConsoleAppEgor6110.csproj.AssemblyReference.cache
+D:\учеба\ConsoleAppEgor6110\ConsoleAppEgor6110\obj\Debug\net6.0\ConsoleAppEgor6110.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\ConsoleAppEgor6110\ConsoleAppEgor6110\obj\Debug\net6.0\ConsoleAppEgor6110.AssemblyInfoInputs.cache
+D:\учеба\ConsoleAppEgor6110\ConsoleAppEgor6110\obj\Debug\net6.0\ConsoleAppEgor6110.AssemblyInfo.cs
+D:\учеба\ConsoleAppEgor6110\ConsoleAppEgor6110\obj\Debug\net6.0\ConsoleAppEgor6110.csproj.CoreCompileInputs.cache
+D:\учеба\ConsoleAppEgor6110\ConsoleAppEgor6110\bin\Debug\net6.0\ConsoleAppEgor6110.exe
+D:\учеба\ConsoleAppEgor6110\ConsoleAppEgor6110\bin\Debug\net6.0\ConsoleAppEgor6110.deps.json
+D:\учеба\ConsoleAppEgor6110\ConsoleAppEgor6110\bin\Debug\net6.0\ConsoleAppEgor6110.runtimeconfig.json
+D:\учеба\ConsoleAppEgor6110\ConsoleAppEgor6110\bin\Debug\net6.0\ConsoleAppEgor6110.dll
+D:\учеба\ConsoleAppEgor6110\ConsoleAppEgor6110\bin\Debug\net6.0\ConsoleAppEgor6110.pdb
+D:\учеба\ConsoleAppEgor6110\ConsoleAppEgor6110\obj\Debug\net6.0\ConsoleAppEgor6110.dll
+D:\учеба\ConsoleAppEgor6110\ConsoleAppEgor6110\obj\Debug\net6.0\refint\ConsoleAppEgor6110.dll
+D:\учеба\ConsoleAppEgor6110\ConsoleAppEgor6110\obj\Debug\net6.0\ConsoleAppEgor6110.pdb
+D:\учеба\ConsoleAppEgor6110\ConsoleAppEgor6110\obj\Debug\net6.0\ConsoleAppEgor6110.genruntimeconfig.cache
+D:\учеба\ConsoleAppEgor6110\ConsoleAppEgor6110\obj\Debug\net6.0\ref\ConsoleAppEgor6110.dll
